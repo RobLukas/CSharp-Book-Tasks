@@ -1,0 +1,9 @@
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\obj\Debug\SecondPart.csprojResolveAssemblyReference.cache
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\obj\Debug\SecondPart.Form1.resources
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\obj\Debug\SecondPart.Properties.Resources.resources
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\obj\Debug\SecondPart.csproj.GenerateResource.Cache
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\bin\Debug\SecondPart.exe.config
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\bin\Debug\SecondPart.exe
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\bin\Debug\SecondPart.pdb
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\obj\Debug\SecondPart.exe
+D:\Projects\C# book\Rozdz 7 zad 2\Rozdz 7 zad 2\SecondPart\obj\Debug\SecondPart.pdb

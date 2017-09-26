@@ -1,0 +1,9 @@
+D:\Projects\C# book\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\C# book\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projects\C# book\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projects\C# book\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Projects\C# book\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\C# book\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\C# book\Rozdz 6 zad 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projects\C# book\Rozdz 6 zad 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\C# book\Rozdz 6 zad 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

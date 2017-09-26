@@ -1,0 +1,20 @@
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\bin\Debug\Rozdz 8 zad 7.exe.config
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\bin\Debug\Rozdz 8 zad 7.exe
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\bin\Debug\Rozdz 8 zad 7.pdb
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.csprojResolveAssemblyReference.cache
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz_8_zad_7.Form1.resources
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz_8_zad_7.Properties.Resources.resources
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.csproj.GenerateResource.Cache
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.csproj.CoreCompileInputs.cache
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.exe
+D:\Projects\C# book\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.pdb
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz_8_zad_7.Form1.resources
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz_8_zad_7.Properties.Resources.resources
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.csproj.GenerateResource.Cache
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.exe
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\obj\Debug\Rozdz 8 zad 7.pdb
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\bin\Debug\Rozdz 8 zad 7.exe.config
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\bin\Debug\Rozdz 8 zad 7.exe
+D:\Projects\CSharp-Book-Tasks\Rozdz 8 zad 7\Rozdz 8 zad 7\Rozdz 8 zad 7\bin\Debug\Rozdz 8 zad 7.pdb

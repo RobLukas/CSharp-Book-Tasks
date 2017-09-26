@@ -1,0 +1,9 @@
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\bin\Debug\Wyścigi.exe.config
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\obj\Debug\Wyścigi.csprojResolveAssemblyReference.cache
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\obj\Debug\Wyścigi.Form1.resources
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\obj\Debug\Wyścigi.Properties.Resources.resources
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\obj\Debug\Wyścigi.csproj.GenerateResource.Cache
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\bin\Debug\Wyścigi.exe
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\bin\Debug\Wyścigi.pdb
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\obj\Debug\Wyścigi.exe
+C:\Users\Robert\OneDrive\C# book\Wyścigi\Wyścigi\obj\Debug\Wyścigi.pdb

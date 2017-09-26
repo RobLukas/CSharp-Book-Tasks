@@ -1,0 +1,9 @@
+D:\Projects\C# book\test1\test1\bin\Debug\test1.exe.config
+D:\Projects\C# book\test1\test1\bin\Debug\test1.exe
+D:\Projects\C# book\test1\test1\bin\Debug\test1.pdb
+D:\Projects\C# book\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\Projects\C# book\test1\test1\obj\Debug\test1.Form1.resources
+D:\Projects\C# book\test1\test1\obj\Debug\test1.Properties.Resources.resources
+D:\Projects\C# book\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+D:\Projects\C# book\test1\test1\obj\Debug\test1.exe
+D:\Projects\C# book\test1\test1\obj\Debug\test1.pdb

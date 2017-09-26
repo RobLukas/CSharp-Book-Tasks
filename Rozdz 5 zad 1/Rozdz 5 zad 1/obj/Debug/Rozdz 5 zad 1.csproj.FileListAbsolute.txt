@@ -1,0 +1,9 @@
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\bin\Debug\Rozdz 5 zad 1.exe.config
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\obj\Debug\Rozdz 5 zad 1.csprojResolveAssemblyReference.cache
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\obj\Debug\Rozdz_5_zad_1.Form1.resources
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\obj\Debug\Rozdz_5_zad_1.Properties.Resources.resources
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\obj\Debug\Rozdz 5 zad 1.csproj.GenerateResource.Cache
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\bin\Debug\Rozdz 5 zad 1.exe
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\bin\Debug\Rozdz 5 zad 1.pdb
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\obj\Debug\Rozdz 5 zad 1.exe
+D:\Projects\C# book\Rozdz 5 zad 1\Rozdz 5 zad 1\obj\Debug\Rozdz 5 zad 1.pdb

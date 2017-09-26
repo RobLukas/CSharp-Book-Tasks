@@ -1,0 +1,7 @@
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\bin\Debug\Rozdz 8 zad 4.exe.config
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\bin\Debug\Rozdz 8 zad 4.exe
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\bin\Debug\Rozdz 8 zad 4.pdb
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\obj\Debug\Rozdz 8 zad 4.csprojResolveAssemblyReference.cache
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\obj\Debug\Rozdz 8 zad 4.csproj.CoreCompileInputs.cache
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\obj\Debug\Rozdz 8 zad 4.exe
+D:\Projects\C# book\Rozdz 8 zad 4\Rozdz 8 zad 4\Rozdz 8 zad 4\obj\Debug\Rozdz 8 zad 4.pdb

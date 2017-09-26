@@ -1,0 +1,9 @@
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\bin\Debug\Rozdz 4 zad 3.exe.config
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\bin\Debug\Rozdz 4 zad 3.exe
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\bin\Debug\Rozdz 4 zad 3.pdb
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\obj\Debug\Rozdz 4 zad 3.csprojResolveAssemblyReference.cache
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\obj\Debug\Rozdz_4_zad_3.Form1.resources
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\obj\Debug\Rozdz_4_zad_3.Properties.Resources.resources
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\obj\Debug\Rozdz 4 zad 3.csproj.GenerateResource.Cache
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\obj\Debug\Rozdz 4 zad 3.exe
+C:\Users\Robert\OneDrive\C# book\Rozdz 4 zad 3\Rozdz 4 zad 3\obj\Debug\Rozdz 4 zad 3.pdb
