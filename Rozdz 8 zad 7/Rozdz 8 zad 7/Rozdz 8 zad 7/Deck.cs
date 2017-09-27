@@ -75,9 +75,20 @@ namespace Rozdz_8_zad_7
                     deckToReturn.Add(Deal(i));
             return deckToReturn;
         }
-        //public bool HasBook()
-        //{
-
-        //}
+        public bool HasBook(Values value)
+        {
+            int NumberOfCards = 0;
+            foreach (Card card in cards)
+                if (card.Value == value)
+                    NumberOfCards++;
+            if (NumberOfCards == 4)
+                return true;
+            else
+                return false;
+        }
+        public void SortByValue()
+        {
+            cards.Sort(new CardCompare_byValue());
+        }
     }
 }
