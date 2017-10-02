@@ -60,7 +60,6 @@
             // 
             // textName
             // 
-            this.textName.Enabled = false;
             this.textName.Location = new System.Drawing.Point(15, 25);
             this.textName.Name = "textName";
             this.textName.Size = new System.Drawing.Size(192, 20);
@@ -74,6 +73,7 @@
             this.buttonStart.TabIndex = 3;
             this.buttonStart.Text = "Rozpocznij grę!";
             this.buttonStart.UseVisualStyleBackColor = true;
+            this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
             // 
             // listHand
             // 
@@ -92,6 +92,7 @@
             this.buttonAsk.TabIndex = 5;
             this.buttonAsk.Text = "Zażądaj karty";
             this.buttonAsk.UseVisualStyleBackColor = true;
+            this.buttonAsk.Click += new System.EventHandler(this.buttonAsk_Click);
             // 
             // textProgress
             // 

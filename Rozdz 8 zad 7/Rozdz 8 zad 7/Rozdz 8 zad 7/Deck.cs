@@ -39,7 +39,6 @@ namespace Rozdz_8_zad_7
             while (cards.Count > 0)
             {
                 int randomIndex = random.Next(cards.Count);
-                //Card card = cards[randomIndex];
                 NewCard.Add(cards[randomIndex]);
                 cards.RemoveAt(randomIndex);
             }

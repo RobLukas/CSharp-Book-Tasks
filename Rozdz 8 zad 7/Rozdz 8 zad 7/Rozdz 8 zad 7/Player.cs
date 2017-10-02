@@ -59,8 +59,8 @@ namespace Rozdz_8_zad_7
             }
             if (totalCardsGiven == 0)
             {
-                TakeCard(stock.Deal());
                 textBoxOnForm.Text += Name + " pobrał kartę z kupki" + Environment.NewLine;
+                TakeCard(stock.Deal());
             }
         }
         public IEnumerable<Values> PullOutBooks()
@@ -78,7 +78,7 @@ namespace Rozdz_8_zad_7
                 if (howMany == 4)
                 {
                     books.Add(value);
-                    for (int card = CardCount - 1; card >= 0; card++)
+                    for (int card = cards.Count - 1; card >= 0; card--)
                         cards.Deal(card);
                 }
             }
